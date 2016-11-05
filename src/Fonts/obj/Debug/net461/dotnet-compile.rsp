@@ -1,5 +1,5 @@
---temp-output:C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\obj\Debug\net461\
---out:C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\bin\Debug\net461\Fonts.exe
+--temp-output:C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\obj\Debug\net461\
+--out:C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\bin\Debug\net461\Fonts.exe
 --define:DEBUG
 --define:TRACE
 --define:NET461
@@ -175,7 +175,7 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.ServiceModel.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Numerics.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Runtime.Serialization.dll
---resource:"C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\obj\Debug\net461\Fontsdotnet-compile.deps.json",Fonts.deps.json
-C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\Program.cs
-C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\Startup.cs
-C:\Users\kamran\documents\visual studio 2015\Projects\Fonts\src\Fonts\Controllers\HomeController.cs
+--resource:"C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\obj\Debug\net461\Fontsdotnet-compile.deps.json",Fonts.deps.json
+C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\Program.cs
+C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\Startup.cs
+C:\Users\kamran\Source\Repos\Fonts2\src\Fonts\Controllers\HomeController.cs
