@@ -20,7 +20,12 @@ namespace Fonts.Controllers
             return View();
 
         }
+        public IActionResult Fontx()
+        {
+         
+            return View();
 
+        }
 
 
         public IActionResult Contact()
